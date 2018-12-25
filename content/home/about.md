@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Networks",
+    "Data Centres",
+    "Systems"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "University of Cambridge"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Computer Science, Specialisation Foundations of Software"
+  institution = "Ecole Polytechnique Federale de Lausanne"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Computer Science, Computer Science Engineer"
+  institution = "University Politehnica of Bucharest"
+  year = 2011
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a final year PhD student in Computer Science and a Marie Curie Early-Stage Researcher in the Systems Research Group at the University of Cambridge, Computer Laboratory, and my advisor is Dr. Andrew Moore. I am interested in data centre networking, network measurement and programmable data planes. My work is funded by the EU FP7 Marie Curie ITN METRICS project.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I studied for my undergraduate degree in Computer Science at the University Politehnica of Bucharest, Romania, where I graduated first of my class, and for my master degree in Computer Science at École Polytechnique Fédérale de Lausanne, Switzerland.
+
+I am a member of Churchill College. I served as postgraduate representative and media chair on the women@CL committee for the academic years 2015-2016 and 2016-2017. I was awarded a Women Techmakers Scholarship by Google in 2017.
