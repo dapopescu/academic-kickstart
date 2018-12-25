@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "dap53@cl.cam.ac.uk"
-  address = "University of Cambridge Computer Laboratory, William Gates Building, 15 JJ Thomson Avenue, Cambridge CB3 0FD, UK"
+  address = "University of Cambridge \\  Computer Laboratory \\ William Gates Building \\ 15 JJ Thomson Avenue, Cambridge CB3 0FD, UK"
   #office_hours = """
   #Monday 10:00 to 13:00\\
   #Wednesday 09:00 to 10:00\\
