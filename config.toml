@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "dap53@cl.cam.ac.uk"
-  address = "University of Cambridge \\  Computer Laboratory \\ William Gates Building \\ 15 JJ Thomson Avenue, Cambridge CB3 0FD, UK"
+  address = "University of Cambridge \n  Computer Laboratory \n William Gates Building \n 15 JJ Thomson Avenue, Cambridge CB3 0FD, UK"
   #office_hours = """
   #Monday 10:00 to 13:00\\
   #Wednesday 09:00 to 10:00\\
@@ -263,7 +263,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:dap53@cam.ac.uk"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
@@ -305,20 +305,20 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+#[[menu.main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
