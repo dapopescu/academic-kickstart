@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Networks",
-    "Data Centres",
-    "Systems"
+    "Systems",
+    "Data centres",
+    "Internet of Things",
   ]
 
 # List your qualifications (such as academic degrees).
