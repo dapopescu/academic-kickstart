@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-I am a final year PhD student in Computer Science and a Marie Curie Early-Stage Researcher in the Systems Research Group at the University of Cambridge, Computer Laboratory, and my advisor is Dr. Andrew Moore. I am interested in data centre networking, network measurement and programmable data planes. My work is funded by the EU FP7 Marie Curie ITN METRICS project.
+I am a final year PhD student in Computer Science and a Marie Curie Early-Stage Researcher in the Systems Research Group at the University of Cambridge, Computer Laboratory, and my advisor is Dr. Andrew Moore. I am interested in data centre networking, network measurement and programmable data planes.
 
 I studied for my undergraduate degree in Computer Science at the University Politehnica of Bucharest, Romania, where I graduated first of my class, and for my master degree in Computer Science at École Polytechnique Fédérale de Lausanne, Switzerland.
 

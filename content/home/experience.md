@@ -19,27 +19,58 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Associate"
+  company = "University of Cambridge"
+  company_url = "https://www.cl.cam.ac.uk/"
+  location = "Cambridge, UK"
+  date_start = "2018-10-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """Research on data centres, programmable data planes, measurements, Internet of Things, applied machine learning
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Engineering Intern"
+  company = "Google"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Sunnyvale, California, USA"
+  date_start = "2017-05-31"
+  date_end = "2017-08-18"
+  description = """I worked in the Network Infrastructure team on optimising Bandwidth Enforcer's traffic delegation system to improve performance when used by specific application architectures."""
+
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "Google"
+  company_url = ""
+  location = "Mountain View, California, USA"
+  date_start = "2015-06-22"
+  date_end = "2015-09-26"
+  description = """I worked in the Platforms Networking team on improving a network monitoring system used in Google's data centers."""
+
+[[experience]]
+  title = "Site Reliability Engineer Intern"
+  company = "Google"
+  company_url = ""
+  location = "Zurich, Switzerland"
+  date_start = "2013-08-05"
+  date_end = "2014-01-31"
+  description = """I worked in the Social Storage SRE team on measuring the CPU usage of individual user queries in order to estimate the cost of a query to be used for load balancing."""
+
+[[experience]]
+  title = "Technical Student"
+  company = "CERN"
+  company_url = ""
+  location = "Geneva, Switzerland"
+  date_start = "2013-02-01"
+  date_end = "2013-07-31"
+  description = """I worked for my master thesis on researching parallelisation techniques for the library used in the design of the Final Focus System of the future accelerators, the International Linear Collider (ILC) and the Compact Linear Collider (CLIC)."""
+
+[[experience]]
+  title = "Intern"
+  company = "CERN"
+  company_url = ""
+  location = "Geneva, Switzerland"
+  date_start = "2010-06-06"
+  date_end = "2010-08-28"
+  description = """I worked on performance monitoring of the software frameworks for the Large Hadron Collider experiments."""
 
 +++
