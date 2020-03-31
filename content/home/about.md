@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "University of Cambridge"
-  year = 2018
+  year = 2019
 
 [[education.courses]]
   course = "MSc in Computer Science, Specialisation Foundations of Software"
@@ -36,8 +36,4 @@ weight = 5
 
 # Biography
 
-I am a final year PhD student in Computer Science and a Marie Curie Early-Stage Researcher in the Systems Research Group at the University of Cambridge, Computer Laboratory, and my advisor is Dr. Andrew Moore. I am interested in data centre networking, network measurement and programmable data planes.
-
-I studied for my undergraduate degree in Computer Science at the University Politehnica of Bucharest, Romania, where I graduated first of my class, and for my master degree in Computer Science at École Polytechnique Fédérale de Lausanne, Switzerland.
-
-I am a member of Churchill College. I served as postgraduate representative and media chair on the women@CL committee for the academic years 2015-2016 and 2016-2017. I was awarded a Women Techmakers Scholarship by Google in 2017.
+I am a research associate in the Systems Research Group. I have recently completed my PhD in Computer Science in the Systems Research Group at the University of Cambridge, Computer Laboratory, Department of Computer Science and Technology. During my PhD I was a Marie Curie Early-Stage Researcher working in the EU-funded METRICS project. I studied for my undergraduate degree in Computer Science at the University Politehnica of Bucharest, Romania, where I graduated first of my class, and for my master degree in Computer Science at École Polytechnique Fédérale de Lausanne, Switzerland. I am an alumna of Churchill College. I served as postgraduate representative and media chair on the women@CL committee for the academic years 2015-2016 and 2016-2017. I was awarded a Women Techmakers Scholarship by Google in 2017.

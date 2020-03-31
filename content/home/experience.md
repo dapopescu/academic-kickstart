@@ -23,9 +23,9 @@ date_format = "January 2006"
   company = "University of Cambridge"
   company_url = "https://www.cl.cam.ac.uk/"
   location = "Cambridge, UK"
-  date_start = "2018-10-01"
+  date_start = "2019-02-01"
   date_end = ""
-  description = """Research on data centres, programmable data planes, measurements, Internet of Things, applied machine learning
+  description = """Research on Internet of Things, applied machine learning, data centre networking
   """
 
 [[experience]]
