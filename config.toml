@@ -53,11 +53,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Diana Andreea Popescu"
-  role = "Research Associate"
+  role = "Postdoctoral Research Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Cambridge", url = "https://www.cl.cam.ac.uk/" } ]
+  organizations = [ { name = "University of Cambridge", url = "https://www.cst.cam.ac.uk/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -279,6 +279,12 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/dapopescu"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/diana-andreea-popescu-13048239/"
+
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
