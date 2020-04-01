@@ -20,17 +20,17 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "University of Cambridge"
-  year = 2019
+#  year = 2019
 
 [[education.courses]]
   course = "MSc in Computer Science, Specialisation Foundations of Software"
   institution = "Ecole Polytechnique Federale de Lausanne"
-  year = 2013
+#  year = 2013
 
 [[education.courses]]
   course = "BSc in Computer Science, Computer Science Engineer"
   institution = "University Politehnica of Bucharest"
-  year = 2011
+#  year = 2011
  
 +++
 

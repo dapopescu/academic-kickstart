@@ -48,28 +48,5 @@ filter_default = 0
 #   name = "Other"
 #   tag = "Demo"
 
-[[filter]]
-  name = "IoT device classification for home IoT networks"
-  tag = " applied machine learning, edge computing, Raspberry Pi, network measurement"
-
-
-[[filter]]
-  name = "NoMora: Latency-driven, application performance-aware cluster scheduling"
-  tag = "Cluster scheduling, networking, network measurements, cloud computing"
-
-[[filter]]
-  name = "Characterising network latency impact on cloud-based applications' performance"
-  tag = "Application performance, network measurements, cloud computing"
-
-
-[[filter]]
-  name = "Data centre network measurements using the Precision Time Protocol"
-  tag = "PTP, network measurements, cloud computing"
-
-
-[[filter]]
-  name = "Elastic Trie: Enabling event-triggered data plane monitoring"
-  tag = "Large traffic aggregates, network measurements, programmable data planes"
-
 +++
 
