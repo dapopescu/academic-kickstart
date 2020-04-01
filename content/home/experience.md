@@ -20,12 +20,21 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Associate"
-  company = "University of Cambridge"
-  company_url = "https://www.cl.cam.ac.uk/"
+  company = "University of Cambridge, Computer Laboratory"
+  company_url = "https://www.cst.cam.ac.uk/"
   location = "Cambridge, UK"
   date_start = "2019-02-01"
   date_end = ""
   description = """Research on Internet of Things, applied machine learning, data centre networking
+  """
+[[experience]]
+  title = "PhD student / Marie Curie Early-Stage Researcher"
+  company = "University of Cambridge, Computer Laboratory"
+  company_url = "https://www.cst.cam.ac.uk/"
+  location = "Cambridge, UK"
+  date_start = "2014-05-01"
+  date_end = "2019-12-01"
+  description = """PhD thesis: Latency-driven performance in data centres. Research on data centre networking, network measurements and programmable data planes.
   """
 
 [[experience]]
