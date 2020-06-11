@@ -1,5 +1,5 @@
 +++
-title = "Colearn"
+title = "CoLearn: Enabling Federated Learning in MUD compliant IoT Edge Networks" 
 date = 2020-06-11T11:17:52+03:00
 draft = false
 
@@ -18,8 +18,8 @@ authors = ["Angelo Feraudo (University of Bologna)", "Poonam Yadav (University o
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CoLearn: Enabling Federated Learning in MUD compliant IoT Edge Networks"
-publication_short = ""
+publication = "EdgeSys '20: Proceedings of the Third ACM International Workshop on Edge Systems, Analytics and Networking"
+publication_short = "EdgeSys '20"
 
 # Abstract and optional shortened version.
 abstract = "Edge computing and Federated Learning (FL) can work in tandem to address issues related to privacy and collaborative distributed learning in untrusted IoT environments. However, deployment of FL in resource-constrained IoT devices faces challenges including asynchronous participation of such devices in training, and the need to prevent malicious devices from participating. To address these challenges we present CoLearn, which build on the open-source Manufacturer Usage Description (MUD) implementation osMUD and the FL framework PySyft. We deploy CoLearn on resourceconstrained devices in a lab environment to demonstrate (i) an asynchronous participation mechanism for IoT devices in machine learning model training using a publish/subscribe architecture, (ii) a mechanism for reducing the attack surface in FL architecture by allowing only IoT MUD-compliant devices to participate in the training phases, and (iii) a trade-off between communication bandwidth usage, training time and device temperature (thermal fatigue)."
@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["IoT", "Federated Learning", "Machine Learning"]
 
 # Links (optional).
 url_pdf = "https://dl.acm.org/doi/pdf/10.1145/3378679.3394528"
