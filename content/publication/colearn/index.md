@@ -1,6 +1,6 @@
 +++
 title = "CoLearn: Enabling Federated Learning in MUD compliant IoT Edge Networks" 
-date = 2020-06-11T11:17:52+03:00
+date = 2020-04-27T09:00:00+03:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -1,6 +1,6 @@
 +++
 title = "No Delay: Latency-Driven, Application Performance-Aware, Cluster Scheduling"
-date = 2020-06-11T13:01:16+03:00
+date = 2019-03-01T09:00:00+03:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
